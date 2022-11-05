@@ -5,8 +5,9 @@ Lives in Sendai, originally from Yokohama.
 
 Currently enrolled in master's program at Tohoku University Graduate School.
 
-nao(i) hiro(ki) 701 (this is a play on the word "Naoi")
+
 <!--
+nao(i) hiro(ki) 701 (this is a play on the word "Naoi")
 **naohiro701/naohiro701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
