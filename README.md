@@ -1,7 +1,10 @@
 ### Hi there 👋
 I'm Hiroki Naoi. Born in April 9, 2000. 
 
-Lives in Sendai, originally from Yokohama. Currently enrolled in master's program at Tohoku University Graduate School.
+Lives in Sendai, originally from Yokohama. 
+
+Currently enrolled in master's program at Tohoku University Graduate School.
+
 <!--
 **naohiro701/naohiro701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
