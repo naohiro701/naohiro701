@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm Hiroki Naoi. Born in April 9, 2000. 
 
+Master student in Tohoku university, from Yokohaya, living in Sendai.
 <!--
 **naohiro701/naohiro701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
