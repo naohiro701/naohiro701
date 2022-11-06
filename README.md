@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Hiroki Naoi. Born in April 9, 2000. 
 
-Lives in Sendai, originally from Yokohama. 
+Lives in Sendai, from Yokohama. 
 
 Currently enrolled in master's program at Tohoku University.
 
