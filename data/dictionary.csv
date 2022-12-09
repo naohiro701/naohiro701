@@ -1,0 +1,14 @@
+,name_en,color
+Pumped_storage,Pumped Storage,#005D8C
+battery,Battery,#EE8B08
+coal_fired,Coal,#707070
+geothermal,Geothermal,#911726
+hydro_electricity,Hydro power,#9ABAD2
+lng_fired,LNG,#9E5A01
+municipal_solid_waste,Municipal Solid Waste,#7030A0
+nuclear_power,Nuclear,#7030A0
+offwind,Offshore wind,#00ADD9
+oil_fired,Oil,#262626
+onwind,Onshore wind ,#007CBB
+pv,PV,#FCB615
+woody_biomass,Woody Biomass,#46763B
