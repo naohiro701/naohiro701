@@ -2,6 +2,6 @@
 
 youtubeの動画のURLを持ってくる．
 
-[![alt設定](http://img.youtube.com/vi/{/v=ux6zXguiqxM}/0.jpg)](https://www.youtube.com/watch?v={/v=ux6zXguiqxM})
+[![alt設定](http://img.youtube.com/vi/ux6zXguiqxM/0.jpg)](https://www.youtube.com/watch?v=ux6zXguiqxM)
 
 ![wc](images/wc.png)
