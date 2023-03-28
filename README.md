@@ -1,4 +1,4 @@
-### 研究室や個人で作成しているコードなど
+### 研究室などで作成している資料
 
 #### 研究室
 ##### Pulp
@@ -10,3 +10,5 @@
 
 ##### Google Apps script
 - [図書係のコード](laboratory/book.js)
+- [Sankey Diagram Generator](https://naohiro701.github.io/others/Sankey_Diagram_Generator.html)
+
