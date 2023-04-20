@@ -9,4 +9,5 @@
 
 ##### WEBアプリ
 - [Sankey Diagram Generator](https://naohiro701.github.io/others/Sankey_Diagram_Generator.html)
-
+- [改行を取り除いて翻訳するツール](https://naohiro701.github.io/others/remove_line_breaks_translate.html)
+- [2次元のcsvをjsonに変換するツール](https://naohiro701.github.io/others/converter_2d_csv_to_json.html)
